@@ -1,0 +1,14 @@
+---
+title: "cmdlinetips: Python and R Tips for Data Science"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+
+
+**Welcome to the blog for learning Python and R!**
+
+
+# Check out [cmdlinetips.com](https://cmdlinetips.com)
